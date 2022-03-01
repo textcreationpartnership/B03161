@@ -1,0 +1,1029 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact list of the royal confederate army in Flanders, commanded by the King of Great-Britain, in four lines, as it was drawn up at Gerpines-Camp, July 27, 1691. VVith the different colours of cloathing, by which each regiment is distinguished.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03161</idno>
+            <idno type="STC">Wing E3659B</idno>
+            <idno type="STC">ESTC R176822</idno>
+            <idno type="EEBO-CITATION">52614667</idno>
+            <idno type="OCLC">ocm 52614667</idno>
+            <idno type="VID">175878</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175878)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2753:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact list of the royal confederate army in Flanders, commanded by the King of Great-Britain, in four lines, as it was drawn up at Gerpines-Camp, July 27, 1691. VVith the different colours of cloathing, by which each regiment is distinguished.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Printed at London ;</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh, :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: sheet creased, with slight loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army. --  Early works to 1800.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table_of_army_regiments_and_their_colors">
+            <pb facs="tcp:175878:1" rendition="simple:additions"/>
+            <head>An Exact LIST of the Royal Confederate Army in <hi>Flanders,</hi> Commanded by the King of <hi>Great-Britain.</hi> In Four Lines; As it was Drawn up at <hi>Gerpines</hi>-Camp, <hi>July 27. 1691. VVith the different Colours of Cloathing, by which each Regiment is diſtinguiſhed.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" cols="3">Horſe and Foot Regiments, of the Left Wing of the Firſt Line.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Names of their Country.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Names and Commanders of the Regiments.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Colours of the Soldiers Cloaths.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Tilly</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Flodons</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>riſome</hi>
+                     </cell>
+                     <cell>White lined white</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>German</hi> Horſe</cell>
+                     <cell>
+                        <hi>Cha<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>net</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lunenburgh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Darmſtadt</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lunenburgh</hi> Foot</cell>
+                     <cell>
+                        <hi>Deduin</hi>
+                     </cell>
+                     <cell>Blew lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>German</hi> Horſe</cell>
+                     <cell>
+                        <hi>Dam<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſie</hi>
+                     </cell>
+                     <cell>White lined blew</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>German</hi> Horſe</cell>
+                     <cell>
+                        <hi>Lippe-Zell</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburg</hi> Foot</cell>
+                     <cell>Pr. of <hi>Brandenburg</hi>
+                     </cell>
+                     <cell>Blew lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Stein</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>Count <hi>Naſſau</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sarbrug</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>Prince of <hi>Frize</hi>
+                     </cell>
+                     <cell>Blew lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Huybert</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburg</hi> Foot</cell>
+                     <cell>
+                        <hi>Do<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>flinges</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Huybert</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>German</hi> Horſe</cell>
+                     <cell>
+                        <hi>Wirtemberg</hi>
+                     </cell>
+                     <cell>White lined blew</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>German</hi> Horſe</cell>
+                     <cell>
+                        <hi>Saxon Aedelburg</hi>
+                     </cell>
+                     <cell>White lined Green</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Heſs</hi> Foot</cell>
+                     <cell>
+                        <hi>Swerine</hi>
+                     </cell>
+                     <cell>Blew lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>German</hi> Horſe</cell>
+                     <cell>
+                        <hi>Heydelburg</hi>
+                     </cell>
+                     <cell>White lined Green</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburg</hi> Horſe</cell>
+                     <cell>
+                        <hi>Spaen</hi>
+                     </cell>
+                     <cell>White lined blew</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Tilly</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Heſs</hi> Foot</cell>
+                     <cell>
+                        <hi>Swerine</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>Rhingrave</hi>
+                     </cell>
+                     <cell>White lined white</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>L'Ecluſe</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lunenburg</hi> Foot</cell>
+                     <cell>
+                        <hi>Bibirg</hi>
+                     </cell>
+                     <cell>Red lined green</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>Shemelpenning</hi>
+                     </cell>
+                     <cell>White lined white</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lunenburgh</hi> Foot</cell>
+                     <cell>
+                        <hi>Bemar</hi>
+                     </cell>
+                     <cell>Red lined green</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lunenburgh</hi> Foot</cell>
+                     <cell>
+                        <hi>Holl</hi>
+                     </cell>
+                     <cell>Blew lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburgh</hi> Foot</cell>
+                     <cell>
+                        <hi>Bois David</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>Prince <hi>Waldeck.</hi>
+                     </cell>
+                     <cell>Red lined red.</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">Left Wing of the Second Line.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Names of their Countrey</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Names and Commanders of the Regiments.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Colours of the Soldiers Cloaths.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>Count <hi>Naſſau</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Weilburg</hi> Horſe</cell>
+                     <cell> </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Reytreich</hi>
+                     </cell>
+                     <cell>White lined green</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>German</hi> Horſe</cell>
+                     <cell>
+                        <hi>Saxen Gotham</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>German</hi> Horſe</cell>
+                     <cell>
+                        <hi>Brenneck</hi>
+                     </cell>
+                     <cell>White lined blue</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Warfare</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>Count <hi>Naſſau</hi>
+                     </cell>
+                     <cell>White lined white</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sarbrug</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Friez</hi>
+                     </cell>
+                     <cell>White lined white</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Lippe</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Terburg</hi>
+                     </cell>
+                     <cell>White</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Itterſum</hi>
+                     </cell>
+                     <cell>White lined blue</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>Pr. of <hi>Birkenfelt</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>Pr. of <hi>Friezland</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Horſe</cell>
+                     <cell>
+                        <hi>Opdam</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lunenburgh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Briquemault</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lunenburgh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Neylbourg</hi>
+                     </cell>
+                     <cell>White lined green</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lunenburgh</hi> Horſe.</cell>
+                     <cell>
+                        <hi>Walfenbuttle.</hi>
+                     </cell>
+                     <cell>White lined blue.</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">Horſe and Foot Regiments, of the Right Wing of the Firſt Line.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Names of their Countrey</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Names and Commanders of the Regiment.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Colours of the Soldiers Cloaths.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Horſe Granadiers</cell>
+                     <cell>Duke of <hi>Ormond</hi>
+                     </cell>
+                     <cell>Red lined white.</cell>
+                  </row>
+                  <row>
+                     <cell>Troop of <hi>Engliſh</hi> Guards</cell>
+                     <cell>Duke of <hi>Ormond</hi>
+                     </cell>
+                     <cell>Red lined white.</cell>
+                  </row>
+                  <row>
+                     <cell>Troop of <hi>Dutch</hi> Guards</cell>
+                     <cell>Duke of <hi>Ormond</hi>
+                     </cell>
+                     <cell>Red lined white.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Caſtinaga</hi>'s Guard</cell>
+                     <cell>Red lined white.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>Pr. <hi>Vaudemont</hi>'s Guard</cell>
+                     <cell>Red lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>Marqueſs <hi>de Grigny</hi>'s</cell>
+                     <cell>Red lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Dragoons</cell>
+                     <cell>
+                        <hi>Wodimont</hi>
+                     </cell>
+                     <cell>White lined white.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburg</hi> Foot</cell>
+                     <cell>Guards of <hi>Brandenburg</hi>
+                     </cell>
+                     <cell>Blue lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Betancour</hi>
+                     </cell>
+                     <cell>White lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Maskay</hi>
+                     </cell>
+                     <cell>White lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburg</hi> Foot</cell>
+                     <cell>Prince <hi>Philips</hi>
+                     </cell>
+                     <cell>Blue lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Hartaman</hi>
+                     </cell>
+                     <cell>White lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>Prince <hi>Lorraine</hi>
+                     </cell>
+                     <cell>White lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Valſſaſſine</hi>
+                     </cell>
+                     <cell>White lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburg</hi> Foot</cell>
+                     <cell>Prince of <hi>Brandenburg</hi>
+                     </cell>
+                     <cell>Blue lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Starenberg</hi>
+                     </cell>
+                     <cell>White lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Co<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dora</hi>
+                     </cell>
+                     <cell>White lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Heſs</hi> Foot</cell>
+                     <cell>
+                        <hi>Skenck</hi>
+                     </cell>
+                     <cell>Blue lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburg</hi> Horſe</cell>
+                     <cell>
+                        <hi>Lutwitch</hi>
+                     </cell>
+                     <cell>White lined green.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Heſs</hi> Foot</cell>
+                     <cell>
+                        <hi>Kelder</hi>
+                     </cell>
+                     <cell>Blue lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Heſs</hi> Horſe</cell>
+                     <cell>
+                        <hi>Spinola</hi>
+                     </cell>
+                     <cell>White lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburg</hi> Horſe</cell>
+                     <cell>
+                        <hi>Dortfinger</hi>
+                     </cell>
+                     <cell>White lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Heſs</hi> Foot</cell>
+                     <cell>
+                        <hi>Rottendorf</hi>
+                     </cell>
+                     <cell>Blue lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Heſs</hi> Horſe</cell>
+                     <cell>
+                        <hi>Kerſendorf</hi>
+                     </cell>
+                     <cell>White lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburg</hi> Horſe</cell>
+                     <cell>Prince of <hi>Brandenburg</hi>
+                     </cell>
+                     <cell>Blue lined white.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburg</hi> Horſe</cell>
+                     <cell>Grand Muſqueeters</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Engliſh</hi> Foot</cell>
+                     <cell>1. Regiment of Guards</cell>
+                     <cell>Red lined blue.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Engliſh</hi> Foot</cell>
+                     <cell>2. Regiment of Guards</cell>
+                     <cell>Red lined <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>D<gap reason="illegible" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> F<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>Blue lined red.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Engliſh</hi> Foot</cell>
+                     <cell>
+                        <hi>Hodges</hi>
+                     </cell>
+                     <cell>Red lined white.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Engliſh</hi> Foot</cell>
+                     <cell>
+                        <hi>Fits-Patrick</hi>
+                     </cell>
+                     <cell>Red lined green.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>Delwick</hi>
+                     </cell>
+                     <cell>Red lined blue.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>Sable</hi>
+                     </cell>
+                     <cell>White lined green.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>Wynbergen</hi>
+                     </cell>
+                     <cell>White lined green.</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">Right VVing of the Second Line.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Names of their Countrey.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Names and Commanders of the Regiments.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Colours of the Soldiers Cloaths.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>du Puy</hi>
+                     </cell>
+                     <cell>White lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Brancaccio</hi>
+                     </cell>
+                     <cell>VVhite lined blue</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Don Auguſtine</hi>
+                     </cell>
+                     <cell>VVhite lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Sinogle</hi>
+                     </cell>
+                     <cell>VVhite lined white</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Spinoſa</hi>
+                     </cell>
+                     <cell>VVhite lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spaniſh</hi> Horſe</cell>
+                     <cell>
+                        <hi>Pignatelli</hi>
+                     </cell>
+                     <cell>VVhite lined green</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Heſs</hi> Horſe</cell>
+                     <cell>
+                        <hi>Spiegle</hi>
+                     </cell>
+                     <cell>VVhite lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bradenburg</hi> Dragoons</cell>
+                     <cell>
+                        <hi>Hamall</hi>
+                     </cell>
+                     <cell>Blue lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brandenburg</hi> Horſe</cell>
+                     <cell>Guards of <hi>Brandenburg</hi>
+                     </cell>
+                     <cell>VVhite lined blue</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Scots</hi> Foot</cell>
+                     <cell>
+                        <hi>Scots</hi> Guards</cell>
+                     <cell>Red lined white</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Scots</hi> Foot</cell>
+                     <cell>
+                        <hi>Douglaſs</hi>
+                     </cell>
+                     <cell>Red lined white</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Scots</hi> Foot</cell>
+                     <cell>
+                        <hi>Mackay</hi>
+                     </cell>
+                     <cell>Red lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Scots</hi> Foot</cell>
+                     <cell>
+                        <hi>Ramſey</hi>
+                     </cell>
+                     <cell>Red lined white</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Scots</hi> Foot</cell>
+                     <cell>
+                        <hi>Offarrel</hi> Fuſileers</cell>
+                     <cell>Red lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Scots</hi> Foot</cell>
+                     <cell>
+                        <hi>Angus</hi>
+                     </cell>
+                     <cell>Red lined white</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>Slangenburg</hi>
+                     </cell>
+                     <cell>Red lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>Toray</hi>
+                     </cell>
+                     <cell>Red lined blue</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>Noyelle</hi>
+                     </cell>
+                     <cell>VVhite lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>Salis</hi>
+                     </cell>
+                     <cell>VVhite lined red</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lunenburg</hi> Foot</cell>
+                     <cell>
+                        <hi>Dalberg</hi>
+                     </cell>
+                     <cell>Red lined green</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sweeds</hi> Foot</cell>
+                     <cell>
+                        <hi>Louvenſhop</hi>
+                     </cell>
+                     <cell>Blue lined yellow</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>Fagel</hi>
+                     </cell>
+                     <cell>Red lined yellow</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch</hi> Foot</cell>
+                     <cell>
+                        <hi>Du Tell</hi>
+                     </cell>
+                     <cell>VVhite lined blue.</cell>
+                  </row>
+                  <row>
+                     <cell role="total" cols="2">Horſe and Dragoons, 184 Squadrons, each Squadron conſiſting of 120 Men</cell>
+                     <cell role="total">In all 22030</cell>
+                  </row>
+                  <row>
+                     <cell role="total" cols="2">Foot, 83 Battallions, each Battallion conſiſting of 800 Men</cell>
+                     <cell role="total">In all 66400</cell>
+                  </row>
+                  <row>
+                     <cell role="total" cols="2">Total of Horſe, Foot, and Dragoons</cell>
+                     <cell role="total">88480</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London,</hi> and Re-Printed at <hi>Edinburgh,</hi> by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
